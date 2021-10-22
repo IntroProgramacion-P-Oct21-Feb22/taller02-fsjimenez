@@ -15,9 +15,10 @@ public class Proyecto01 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Ejemplo básico de Java");
-        System.out.println("Versionado a través de Git");
+        System.out.println("Ejemplo de Java");
         System.out.println("Manejado desde GitHub");
+        System.out.println("Versionado a través de Git");
+        System.out.println("Creado por fsjimenez");
     }
     
 }
